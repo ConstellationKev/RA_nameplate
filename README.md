@@ -13,3 +13,5 @@ Schematic:
 
 PCB Design:
 ![](assets/one.png)
+
+Yeah idk what I am doing
